@@ -1,4 +1,4 @@
-#Welcome to our cutApp
+# Welcome to our cutApp
 
 ## Rules
 
